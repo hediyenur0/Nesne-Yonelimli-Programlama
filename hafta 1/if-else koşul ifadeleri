@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+//SORU 2: Üç sayıdan en büyüğünü bulan program.
+
+            Console.Write("sayi1 sayısını giriniz:");
+            int sayi1 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("sayi2 sayısını giriniz:");
+            int sayi2 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("sayi3 sayısını giriniz:");
+            int sayi3 = Convert.ToInt32(Console.ReadLine());
+
+            if (sayi1 > sayi2 && sayi1 > sayi3)
+            {
+                Console.WriteLine("Sayi1 en büyük sayidir.");
+                Console.ReadKey();
+            }
+            else if (sayi2 > sayi3 && sayi2 > sayi1)
+            {
+                Console.WriteLine("Sayi2 en büyüktür");
+                Console.ReadKey();
+            }
+            else if (sayi3 > sayi2 && sayi3 > sayi1)
+            {
+                Console.WriteLine("Sayi3 en büyüktür");
+                Console.ReadKey();
+            }
+         }
+      }
+  }
+
+            }
