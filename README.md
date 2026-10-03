@@ -1,10 +1,10 @@
 # Object-Oriented Programming
 
 - **This repository contains examples, exercises, and course materials from my Object-Oriented Programming course using C#.**
-- **Bu repository, C# kullanılarak işlenen Nesne Yönelimli Programlama dersi kapsamında hazırladığım örnekleri, uygulamaları ve ders çalışmalarını içermektedir.**
+- *Bu repository, C# kullanılarak işlenen Nesne Yönelimli Programlama dersi kapsamında hazırladığım örnekleri, uygulamaları ve ders çalışmalarını içermektedir.*
 
 - **The repository is organized week by week according to the topics covered in the course.**
-- **Repository, derste işlenen konulara göre haftalık olarak düzenlenmiştir.**
+- *Repository, derste işlenen konulara göre haftalık olarak düzenlenmiştir.*
 
 ## 📚 Weekly Content
 **Week 01 — C# Fundamentals**
@@ -70,8 +70,8 @@ Nesne-Yonelimli-Programlama/
 ```
 
 - **Each week contains the examples and exercises related to the topics covered during that week.**
-- **Her hafta, o hafta işlenen konularla ilgili örnekleri ve uygulamaları içermektedir.**
+- *Her hafta, o hafta işlenen konularla ilgili örnekleri ve uygulamaları içermektedir.*
 
 **🎯 Purpose**
 - **The purpose of this repository is to document my learning process and keep my C# and Object-Oriented Programming exercises organized throughout the course.**
-- **Bu repository'nin amacı, C# ve Nesne Yönelimli Programlama dersindeki öğrenme sürecimi belgelemek ve yaptığım çalışmaları düzenli bir şekilde saklamaktır.**
+- *Bu repository'nin amacı, C# ve Nesne Yönelimli Programlama dersindeki öğrenme sürecimi belgelemek ve yaptığım çalışmaları düzenli bir şekilde saklamaktır.*
