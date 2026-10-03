@@ -9,3 +9,8 @@
 
 ## Contents
 - **This folder contains examples and exercises related to getters, setters, and properties.**
+
+---
+
+[← Previous Week](../week-03) | [Home](../) | [Next Week →](../week-05)
+
