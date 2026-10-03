@@ -3,6 +3,7 @@ Object-Oriented Programming
 -The repository is organized week by week according to the topics covered in the course.
 
 📚 Weekly Content
+
 Week 01 — C# Fundamentals
 -Variables
 -Operators
