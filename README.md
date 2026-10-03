@@ -6,7 +6,7 @@
 - *Bu repository, C# kullanılarak işlenen Nesne Yönelimli Programlama dersi kapsamında hazırladığım örnekleri, uygulamaları ve ders çalışmalarını içermektedir.*
 - *Repository, derste işlenen konulara göre haftalık olarak düzenlenmiştir.*
 
-## 📚 Weekly Content
+## 📚 Weekly Content | Haftalık İçerik
 **Week 01 — C# Fundamentals**
 - Variables | Değişkenler
 - Operators | Operatörler
@@ -39,23 +39,23 @@
 **Week 05 — Inheritance and Composition**
 - Inheritance | Kalıtım
 - Composition | Kompozisyon
-- Base and Derived Classes | Üst Sınıf (Temel Sınıf)/ Alt Sınıf (Türetilmiş Sınıf)
+- Base and Derived Classes | Üst Sınıf (Temel Sınıf) / Alt Sınıf (Türetilmiş Sınıf)
 - Code Reusability | Kod Tekrarını Azaltma 
 
 **Week 06 — Abstraction**
 - Abstraction | Soyutlama 
-- Abstract Classes
-- Abstract Methods
+- Abstract Classes | Soyut Sınıflar
+- Abstract Methods | Soyut Metotlar
 
 **Week 07 — Polymorphism**
 - Polymorphism | Çok Biçimlilik
 - Method Overriding | Metot Ezme
 - Virtual and Override Methods 
 
-## 💻 Language
+## 💻 Language | Dil
 **C#**
 
-## 📁 Repository Structure
+## 📁 Repository Structure | Repository Yapısı
 
 ```text
 Nesne-Yonelimli-Programlama/
@@ -72,6 +72,6 @@ Nesne-Yonelimli-Programlama/
 - **Each week contains the examples and exercises related to the topics covered during that week.**
 - *Her hafta, o hafta işlenen konularla ilgili örnekleri ve uygulamaları içermektedir.*
 
-**🎯 Purpose**
+**🎯 Purpose | Amaç**
 - **The purpose of this repository is to document my learning process and keep my C# and Object-Oriented Programming exercises organized throughout the course.**
 - *Bu repository'nin amacı, C# ve Nesne Yönelimli Programlama dersindeki öğrenme sürecimi belgelemek ve yaptığım çalışmaları düzenli bir şekilde saklamaktır.*
