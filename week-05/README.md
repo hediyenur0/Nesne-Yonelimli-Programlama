@@ -9,3 +9,7 @@
 
 ## Contents
 - **This folder contains examples and exercises related to inheritance and composition in C#.**
+
+---
+
+[← Previous Week](../week-04) | [Home](../) | [Next Week →](../week-06)
