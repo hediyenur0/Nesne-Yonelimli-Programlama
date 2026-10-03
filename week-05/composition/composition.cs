@@ -1,3 +1,5 @@
+//Araba ve motor arasındaki ilişkiyi içeren kodlamayı yapalım.
+
 using System;
 
 class Program
