@@ -9,4 +9,4 @@
 - Break, Continue and Goto
 
 ## Contents
-- This folder contains examples and exercises from Week 01.
+- **This folder contains examples and exercises from Week 01.**
