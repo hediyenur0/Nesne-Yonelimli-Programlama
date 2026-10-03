@@ -10,3 +10,7 @@
 
 ## Contents
 - **This folder contains examples and exercises from Week 01.**
+
+---
+
+[Home](../) | [Next Week →](../week-02)
