@@ -1,5 +1,7 @@
 Object-Oriented Programming
+
 -This repository contains examples, exercises, and course materials from my Object-Oriented Programming course using C#.
+
 -The repository is organized week by week according to the topics covered in the course.
 
 📚 Weekly Content
