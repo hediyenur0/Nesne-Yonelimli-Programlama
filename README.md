@@ -54,15 +54,18 @@
 **C#**
 
 ## 📁 Repository Structure
-**Nesne-Yonelimli-Programlama/**
-- │
-- ├── week-01/
-- ├── week-02/
-- ├── week-03/
-- ├── week-04/
-- ├── week-05/
-- ├── week-06/
-- └── week-07/
+
+```text
+Nesne-Yonelimli-Programlama/
+│
+├── week-01/
+├── week-02/
+├── week-03/
+├── week-04/
+├── week-05/
+├── week-06/
+└── week-07/
+```
 
 - **Each week contains the examples and exercises related to the topics covered during that week.**
 
