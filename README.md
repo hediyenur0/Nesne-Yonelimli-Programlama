@@ -64,7 +64,7 @@
 - ├── week-06/
 - └── week-07/
 
-- Each week contains the examples and exercises related to the topics covered during that week.
+- **Each week contains the examples and exercises related to the topics covered during that week.**
 
 **🎯 Purpose**
-- The purpose of this repository is to document my learning process and keep my C# and Object-Oriented Programming exercises organized throughout the course.
+- **The purpose of this repository is to document my learning process and keep my C# and Object-Oriented Programming exercises organized throughout the course.**
