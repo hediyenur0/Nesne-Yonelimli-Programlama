@@ -13,3 +13,7 @@
 
 ## Contents
 - **This folder contains examples and exercises related to the topics covered during Week 02.**
+
+---
+
+[← Previous Week](../week-01) | [Home](../) | [Next Week →](../week-03)
